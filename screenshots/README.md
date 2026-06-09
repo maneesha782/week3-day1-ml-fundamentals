@@ -1,1 +1,1 @@
-This folder contains assignment screenshots.
+This folder contains screenshots.
